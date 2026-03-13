@@ -1,0 +1,2 @@
+[console_scripts]
+takeoff_node = mavros_takeoff_demo.takeoff_node:main

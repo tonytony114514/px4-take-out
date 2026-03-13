@@ -1,0 +1,23 @@
+[0.993s] Invoking command in '/home/tony/ws_mavros/src/mavros_takeoff_demo': PYTHONPATH=/home/tony/ws_mavros/build/mavros_takeoff_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tony/ws_mavros/install/mavros_takeoff_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mavros_takeoff_demo build --build-base /home/tony/ws_mavros/build/mavros_takeoff_demo/build install --record /home/tony/ws_mavros/build/mavros_takeoff_demo/install.log --single-version-externally-managed install_data
+[1.397s] running egg_info
+[1.423s] creating ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info
+[1.423s] writing ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/PKG-INFO
+[1.424s] writing dependency_links to ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/dependency_links.txt
+[1.424s] writing entry points to ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/entry_points.txt
+[1.424s] writing requirements to ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/requires.txt
+[1.426s] writing top-level names to ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/top_level.txt
+[1.426s] writing manifest file '../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/SOURCES.txt'
+[1.451s] reading manifest file '../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/SOURCES.txt'
+[1.453s] writing manifest file '../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/SOURCES.txt'
+[1.453s] running build
+[1.453s] running install
+[1.461s] running install_data
+[1.461s] creating /home/tony/ws_mavros/install/mavros_takeoff_demo/share/ament_index/resource_index/packages
+[1.462s] copying resource/mavros_takeoff_demo -> /home/tony/ws_mavros/install/mavros_takeoff_demo/share/ament_index/resource_index/packages
+[1.463s] copying package.xml -> /home/tony/ws_mavros/install/mavros_takeoff_demo/share/mavros_takeoff_demo
+[1.463s] running install_egg_info
+[1.516s] Copying ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info to /home/tony/ws_mavros/install/mavros_takeoff_demo/lib/python3.10/site-packages/mavros_takeoff_demo-0.0.0-py3.10.egg-info
+[1.518s] running install_scripts
+[1.577s] Installing takeoff_node script to /home/tony/ws_mavros/install/mavros_takeoff_demo/lib/mavros_takeoff_demo
+[1.578s] writing list of installed files to '/home/tony/ws_mavros/build/mavros_takeoff_demo/install.log'
+[1.612s] Invoked command in '/home/tony/ws_mavros/src/mavros_takeoff_demo' returned '0': PYTHONPATH=/home/tony/ws_mavros/build/mavros_takeoff_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tony/ws_mavros/install/mavros_takeoff_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mavros_takeoff_demo build --build-base /home/tony/ws_mavros/build/mavros_takeoff_demo/build install --record /home/tony/ws_mavros/build/mavros_takeoff_demo/install.log --single-version-externally-managed install_data

@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/PKG-INFO
+writing dependency_links to ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/dependency_links.txt
+writing entry points to ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/entry_points.txt
+writing requirements to ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/requires.txt
+writing top-level names to ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/top_level.txt
+reading manifest file '../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/SOURCES.txt'
+writing manifest file '../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tony/ws_mavros/build/mavros_takeoff_demo/build/lib/mavros_takeoff_demo
+copying mavros_takeoff_demo/__init__.py -> /home/tony/ws_mavros/build/mavros_takeoff_demo/build/lib/mavros_takeoff_demo
+copying mavros_takeoff_demo/takeoff_node.py -> /home/tony/ws_mavros/build/mavros_takeoff_demo/build/lib/mavros_takeoff_demo
+running install
+running install_lib
+creating /home/tony/ws_mavros/install/mavros_takeoff_demo/lib/python3.10/site-packages/mavros_takeoff_demo
+copying /home/tony/ws_mavros/build/mavros_takeoff_demo/build/lib/mavros_takeoff_demo/__init__.py -> /home/tony/ws_mavros/install/mavros_takeoff_demo/lib/python3.10/site-packages/mavros_takeoff_demo
+copying /home/tony/ws_mavros/build/mavros_takeoff_demo/build/lib/mavros_takeoff_demo/takeoff_node.py -> /home/tony/ws_mavros/install/mavros_takeoff_demo/lib/python3.10/site-packages/mavros_takeoff_demo
+byte-compiling /home/tony/ws_mavros/install/mavros_takeoff_demo/lib/python3.10/site-packages/mavros_takeoff_demo/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/tony/ws_mavros/install/mavros_takeoff_demo/lib/python3.10/site-packages/mavros_takeoff_demo/takeoff_node.py to takeoff_node.cpython-310.pyc
+running install_data
+copying resource/mavros_takeoff_demo -> /home/tony/ws_mavros/install/mavros_takeoff_demo/share/ament_index/resource_index/packages
+copying package.xml -> /home/tony/ws_mavros/install/mavros_takeoff_demo/share/mavros_takeoff_demo
+running install_egg_info
+removing '/home/tony/ws_mavros/install/mavros_takeoff_demo/lib/python3.10/site-packages/mavros_takeoff_demo-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/mavros_takeoff_demo/mavros_takeoff_demo.egg-info to /home/tony/ws_mavros/install/mavros_takeoff_demo/lib/python3.10/site-packages/mavros_takeoff_demo-0.0.0-py3.10.egg-info
+running install_scripts
+Installing takeoff_node script to /home/tony/ws_mavros/install/mavros_takeoff_demo/lib/mavros_takeoff_demo
+writing list of installed files to '/home/tony/ws_mavros/build/mavros_takeoff_demo/install.log'
